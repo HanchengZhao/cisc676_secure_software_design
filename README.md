@@ -1,1 +1,1 @@
-This is classnotes including codes for [CICS676 Secure Software Design](ss.prof.ninja).
+These are classnotes including codes for [CICS676 Secure Software Design](ss.prof.ninja).
